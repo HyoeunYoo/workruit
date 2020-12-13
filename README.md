@@ -23,13 +23,11 @@
 
 * 시스템 구성도
 
-<img src="https://user-images.githubusercontent.com/62014520/102006272-206cf400-3d63-11eb-8b73-52ceead2dd37.png"  width="700"">
-
 ![system](https://user-images.githubusercontent.com/62014520/102006272-206cf400-3d63-11eb-8b73-52ceead2dd37.png)
 
 * 서비스 흐름도
 
-![flow](https://user-images.githubusercontent.com/62014520/102006273-219e2100-3d63-11eb-8f0e-f5ab5f239944.png)
+![flow](https://user-images.githubusercontent.com/62014520/102006465-a2a9e800-3d64-11eb-9716-1115afd1e482.png)
 
 
 ---
@@ -38,9 +36,25 @@
 
 * 메인 화면 - 로그인 전
 
-![로그인전메인](https://user-images.githubusercontent.com/62014520/102006349-e7814f00-3d63-11eb-99f8-80781f955c1d.png)
-
 ![beforelogin](https://user-images.githubusercontent.com/62014520/102006381-113a7600-3d64-11eb-8811-9a72a074bc80.png)
+
+* 메인 화면 - 로그인 후
+
+![main](https://user-images.githubusercontent.com/62014520/102006471-b0f80400-3d64-11eb-9da6-eeda25ac7d0a.png)
+
+![main2](https://user-images.githubusercontent.com/62014520/102006474-b2c1c780-3d64-11eb-8f0f-b6bd0b376a1d.png)
+
+* 즐겨찾기
+
+![bookmark](https://user-images.githubusercontent.com/62014520/102006475-b35a5e00-3d64-11eb-9175-527366382a36.png)
+
+* 일정 관리
+
+![cal](https://user-images.githubusercontent.com/62014520/102006476-b35a5e00-3d64-11eb-97fc-2f16feadacad.png)
+
+* 업계 동향
+
+![ai](https://user-images.githubusercontent.com/62014520/102006477-b3f2f480-3d64-11eb-9a6d-a9fa6635132e.png)
 
 
 ---
@@ -56,5 +70,3 @@
 * 향후 개선 방향
 
 당초 기존 채용 정보 사이트의 API를 이용하여 채용 공고를 불러오려고 했으나 API 제공이 B2B로 제한되어 임시로 채용 정보 데이터들을 직접 데이터베이스에 저장하여 이용하였다. 따라서 기업 차원에서 개발 시 API 사용으로 데이터 수집이 용이할 것이다.
-
-
