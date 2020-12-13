@@ -23,6 +23,8 @@
 
 * 시스템 구성도
 
+<img src="https://user-images.githubusercontent.com/62014520/102006272-206cf400-3d63-11eb-8b73-52ceead2dd37.png"  width="700"">
+
 ![system](https://user-images.githubusercontent.com/62014520/102006272-206cf400-3d63-11eb-8b73-52ceead2dd37.png)
 
 * 서비스 흐름도
