@@ -40,9 +40,8 @@
 
 * 메인 화면 - 로그인 후
 
-![main](https://user-images.githubusercontent.com/62014520/102006471-b0f80400-3d64-11eb-9da6-eeda25ac7d0a.png)
-
-![main2](https://user-images.githubusercontent.com/62014520/102006474-b2c1c780-3d64-11eb-8f0f-b6bd0b376a1d.png)
+![main1](https://user-images.githubusercontent.com/62014520/102006613-a8ec9400-3d65-11eb-9a26-a8b813970bd4.png)
+![main2](https://user-images.githubusercontent.com/62014520/102006614-aab65780-3d65-11eb-8686-34a01ec65d33.png)
 
 * 즐겨찾기
 
@@ -70,3 +69,22 @@
 * 향후 개선 방향
 
 당초 기존 채용 정보 사이트의 API를 이용하여 채용 공고를 불러오려고 했으나 API 제공이 B2B로 제한되어 임시로 채용 정보 데이터들을 직접 데이터베이스에 저장하여 이용하였다. 따라서 기업 차원에서 개발 시 API 사용으로 데이터 수집이 용이할 것이다.
+
+---
+
+## Program Stacks
+### Client
+* HTML
+* CSS
+* JavaScript
+* jQuery
+* Bootstrap
+
+### Server
+* Apache Tomcat
+* MySQL
+* Java
+* JSP
+* Google custom search
+* Google API
+* maum ai 텍스트 분류
